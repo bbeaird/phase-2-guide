@@ -23,7 +23,7 @@ Alek Sharma
 
 Ryan Hedges - Code Kata
 
-Salar Khan - What makes a good commit. 
+Salar Khan - What makes a good commit?
 
 ## Thursday
 
@@ -31,9 +31,7 @@ Salar Khan - What makes a good commit.
 
 ## Available Talks
 * What is a protocol?
-* What are the 4 rules of simple design?
 * What's the difference between ruby's standard library, core library, and gems?
-* What makes a good commit?
 * What is the params hash?
 * What is the request response cycle?
 * What is the different ways to use the css display property?
