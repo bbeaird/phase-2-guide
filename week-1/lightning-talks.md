@@ -16,11 +16,14 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 * Steven Nugent - What does 'semantic markup' mean?
 
+
 Alek Sharma
 * What is the  arrange act assert pattern?
 * What is red green refactor?
 
 Ryan Hedges - Code Kata
+
+Salar Khan - What makes a good commit. 
 
 ## Thursday
 
