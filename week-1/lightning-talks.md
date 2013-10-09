@@ -22,6 +22,8 @@ Alek Sharma
 
 Ryan Hedges - Code Kata
 
+* Taylor - What is the difference between GET and POST?
+
 ## Thursday
 
 ## Friday
@@ -37,7 +39,7 @@ Ryan Hedges - Code Kata
 * What is refactoring?
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
-* What is the difference between GET and POST?
+
 * How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
