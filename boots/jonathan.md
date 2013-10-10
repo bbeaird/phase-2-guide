@@ -21,3 +21,10 @@ learning objectives:
 |  :facepunch:   |  :facepunch:  |:facepunch:| :facepunch:  | :facepunch:  |:facepunch: |
 
 This was a really hard day. It was very satisfying to get a working app up to Heroku, even though it was very small and I don't know if I could replicate the process on my own. I learned a little bit of: RSpec, Capybara, Heroku, Git, MERGE CONFLICTS, and the four rules of Simple design.
+
+# Week 1, Day 3
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|       0.6      |      0.5      |     0.4   |       0.1    |      0.7     |     0.8    |
+
+Today was so much better than yesterday. I'm feeling like I'm getting a more structured look at my learning through this journal and I feel like I have a good sense for Rspec and Capybara today.
