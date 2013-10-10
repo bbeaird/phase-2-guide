@@ -16,6 +16,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 
 ## Thursday
+Jonathan - what are sessions?
 
 ## Friday
 
